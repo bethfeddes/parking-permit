@@ -1,5 +1,5 @@
 # parking_permit
-Parking permit app that performs various calculations for cost at a university.
+A parking permit app that calculates the cost of a parking permit for a school/university.
 
 ## Design
 I followed the suggested structure of the assignment, as well as adding classes CampusFee. I used Receipt as a printing class, so it is only usable within a console application. ParkingPermitApp functioned as my main. All printing was confined to ParkingPermitApp and Receipt, with ParkingPermitApp taking all the user input. I handled validating input until the user gives a valid input, although with more time I'd like to go back and see how I could do that cleaner.
